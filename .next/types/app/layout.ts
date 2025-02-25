@@ -1,4 +1,4 @@
-// File: D:\Teenvisor\Teenvisor.in-bolt\src\app\layout.tsx
+// File: D:\teenvisor 2\teen\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
